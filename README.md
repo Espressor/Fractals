@@ -1,2 +1,3 @@
 # Fractals
-Fractal generation project
+
+Probably some comments will be added soon.
